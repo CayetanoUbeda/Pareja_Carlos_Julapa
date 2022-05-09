@@ -1,0 +1,10 @@
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\bin\Debug\UID10 - Entornos.exe.config
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\bin\Debug\UID10 - Entornos.exe
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\bin\Debug\UID10 - Entornos.pdb
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\obj\Debug\UID10 - Entornos.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\obj\Debug\UID10___Entornos.Form1.resources
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\obj\Debug\UID10___Entornos.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\obj\Debug\UID10 - Entornos.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\obj\Debug\UID10 - Entornos.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\obj\Debug\UID10 - Entornos.exe
+C:\Users\carlo\OneDrive\Escritorio\repos\CayeBakano\Pareja_Carlos_Julapa\UID10 - Entornos\obj\Debug\UID10 - Entornos.pdb
